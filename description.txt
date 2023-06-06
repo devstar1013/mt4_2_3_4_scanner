@@ -1,0 +1,20 @@
+Meaning that when 1 crosses say the 1m - 50 ema - the other 2 will follow. And when 2 out of the 3 cross the 50 ema then the 3rd one will definitely follow and cross its 50 ema.
+
+The 50 ema is not what I use-its just for an example.
+
+But you do you get the over all concept of what Im looking for?
+
+Here is what happens in order - this will be a buy example.
+
+1. All 3 symbols all start under the 50 ema.
+This is the trigger so to speak. When the ea sees that all three are under the 50 ema it starts to look for 1 of the 3 to go up and touch its 50 ema.
+
+2. Once the symbol -say eurusd for this example hits its 50 ema the ea will pop up an arrow saying that eurusd has hit its 50 -so maybe show an arrow there and an X on both cadchf AND nzdusd to show they have not hit their 50 ema.
+
+3. Then once eurusd hits its 50 ema the scanner waits until the next symbol hits its 50 - for example it waits until cadchf hits 50 ema. Once the cadchf hits its 50 ema the ea will another arrow pop up showing it had hit it.
+
+So now there will be 2 up arrows and only one X still - the X will be nzdusd because it will be the only one that hasnt touched its 50 ema yet.
+
+4. Then if nzdusd ends up hitting its 50 ema eventually the scanner is done.
+
+The scanner is done until all 3 symbols are either over or under their 50 emas - then it will start the process again.
